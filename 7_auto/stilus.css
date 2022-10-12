@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+}
+.wrapper{
+    margin: auto;
+    width: 80%;
+    max-width: 700px;
+    background-color: lightblue;
+    padding: 10px;
+}
+.jobb img{
+    float: right;
+    margin-bottom: 15px;
+    margin-right: 5px;
+}
+.bal img{
+    float: left;
+    margin-bottom: 15px;
+    margin-right: 5px;
+}
+.bal p{
+    text-align: justify;
+}
+.jobb p{
+    text-align: justify;
+}
+.bal{
+    border-top: 2px solid rgb(150,158,162);
+}
+.jobb{
+    border-top: 2px solid rgb(150,158,162);
+}
+.clear{
+    clear: both;
+}
